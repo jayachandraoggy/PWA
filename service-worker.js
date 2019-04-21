@@ -17,7 +17,8 @@ var filesToCache = [
   "/PWA/images/sleet.png",
   "/PWA/images/snow.png",
   "/PWA/images/thunderstorm.png",
-  "/PWA/images/wind.png"
+  "/PWA/images/wind.png",
+  "/PWA/myFavicon.ico"
 ];
 
 self.addEventListener("install", function(e) {
